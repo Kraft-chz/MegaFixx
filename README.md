@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MegaFoxx
+'- 👋 Hi, I’m @MegaFoxx
 - 👀 I’m interested in privacy
 - 🌱 I’m currently learning database administration and token & ID management
 - 💞️ I’m looking for any valuable insights. 
